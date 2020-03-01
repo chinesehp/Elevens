@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevens", "Elevens\Elevens.csproj", "{422A7220-F856-492B-862F-E75032259FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422A7220-F856-492B-862F-E75032259FC2}.Debug|x86.ActiveCfg = Debug|x86
+		{422A7220-F856-492B-862F-E75032259FC2}.Debug|x86.Build.0 = Debug|x86
+		{422A7220-F856-492B-862F-E75032259FC2}.Release|x86.ActiveCfg = Release|x86
+		{422A7220-F856-492B-862F-E75032259FC2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A05ACD1-F605-4AA7-B7A3-8F65D07B6B67}
+	EndGlobalSection
+EndGlobal
